@@ -151,33 +151,42 @@ body {
 .btn-back {
   background-color: var(--brown);
   border-color: var(--brown);
+  color: var(--bs-white);
 }
 .btn-back:hover,
-.btn-back:focus {
+.btn-back:focus,
+.btn-back:focus-visible {
   background-color: var(--brown);
   border-color: var(--brown);
+  color: var(--bs-white);
 }
 .btn-back:first-child:active,
 .btn-back.active {
   background-color: var(--brown);
   border-color: var(--brown);
+  color: var(--bs-white);
 }
 .btn-buy {
   background-color: var(--green);
   border-color: var(--green);
+  color: var(--bs-white);
   padding-left: 1rem;
   padding-right: 1rem;
   margin-bottom: .5rem;
 }
 .btn-buy:hover,
-.btn-buy:focus {
-  background-color: var(--green);
+.btn-buy:focus,
+.btn-buy:focus-visible {
+  background-color: var(--green);  
   border-color: var(--green);
+  color: var(--bs-white);
 }
 .btn-buy:first-child:active,
-.btn-buy.active {
+.btn-buy.active,
+:not(.btn-check) + .btn-buy:active  {
   background-color: var(--green);
   border-color: var(--green);
+  color: var(--bs-white);
 }
 
 
@@ -260,6 +269,13 @@ body {
   border-color: var(--green);
   font-weight: 500;
   border-radius: 4px;
+}
+.product-card .btn:hover,
+.product-card .btn:focus,
+.product-card .btn:focus-visible {
+  background-color: var(--green);  
+  border-color: var(--green);
+  color: var(--bs-white);
 }
 .product-card .btn.active,
 .product-card .btn:active {
