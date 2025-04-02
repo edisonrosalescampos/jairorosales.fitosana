@@ -1,0 +1,856 @@
+[
+    {
+        "name": "Citrato de Potasio",
+        "price": 12,
+        "short_description": "Ayuda al tratamiento de cálculos renales. Mejora el sistema nervioso",
+        "description": "Previene los cálculos renales y contribuye al desarrollo muscular en entrenamientos de hipertrofia muscular.",
+        "category": "minerals",
+        "img": "citrato_potasio.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "99mg"}
+        ],
+        "approval_number": "A-165.216",
+        "cpe": "0724563633"
+    },
+    {
+        "name": "Selenio",
+        "price": 12,
+        "short_description": "Actúa como antioxidante. Mejora tu salud cardiovascular.",
+        "description": "Mejora la salud cardiovascular, actúa como antioxidante, ayuda a desintoxicar el cuerpo y combatir infecciones.",
+        "category": "minerals",
+        "img": "selenio.png",        
+        "elements": [
+            {"name": "Selenio", "qty": "200mg"}
+        ],
+        "approval_number": "A-166.180",
+        "cpe": "1024572011"
+    },
+    {
+        "name": "Zinc",
+        "price": 12,
+        "short_description": "Ayuda a mantener un equilibrio nutricional óptimo.",
+        "description": "Ayuda al sistema inmunitario a luchar contra las bacterias y los virus que lo atacan. Es necesario para el crecimiento y desarrollo, participa en el metabolismo y es antioxidante.",
+        "category": "minerals",
+        "img": "zinc.png",
+        "elements": [
+            {"name": "Zinc", "qty": "50mg"},
+            {"name": "Calcio", "qty": "46mg"}
+        ],
+        "approval_number": "A-165.219",
+        "cpe": "0624562263"
+    },
+
+
+
+    {
+        "name": "Complejo B",
+        "price": 12,
+        "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
+        "description": "Mantiene la salud cerebral, cardíaca, la formación del ADN y la regulación de la energía. Previene las migrañas y reduce los síntomas de depresión y ansiedad.",
+        "category": "vitamins",
+        "img": "complejo_b.png",
+        "elements": [
+            {"name": "Vitamina B1", "qty": "20mg"},
+            {"name": "Vitamina B2", "qty": "20mg"},
+            {"name": "Vitamina B3", "qty": "25mg"},
+            {"name": "Vitamina B5", "qty": "25mg"},
+            {"name": "Vitamina B6", "qty": "20mg"},
+            {"name": "Vitamina B12", "qty": "25mg"},
+            {"name": "Ácido Fólico", "qty": "400cmg"},
+            {"name": "Fumarato Ferroso", "qty": "304mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563658"
+    },
+    {
+        "name": "Biotina",
+        "price": 12,
+        "short_description": "Fortalece y estimula el crecimiento del cabello y las uñas.",
+        "description": "Mantiene el cabello y las uñas sanas, un sistema nervioso estable y coadyuvante en el metabolismo. Ayuda a convertir en energía lo que consumimos.",
+        "category": "vitamins",
+        "img": "biotina.png",
+        "elements": [
+            {"name": "Biotina", "qty": "5mg"},
+            {"name": "Calcio (Fosfato Dicálcico)", "qty": "113mg"}
+        ],
+        "approval_number": "A-165.229",
+        "cpe": "1024572006"
+    },
+    {
+        "name": "Colágeno",
+        "price": 12,
+        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
+        "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
+        "category": "vitamins",
+        "img": "colageno.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.157",
+        "cpe": "1024572008"
+    },
+    {
+        "name": "Vitamina C",
+        "price": 12,
+        "short_description": "Fortalece tu sistema inmunológico y promueve una piel saludable.",
+        "description": "Fortalece el sistema inmunológico, antioxidante, ayuda a la salud de la piel, previene enfermedades degenerativas y mejora la vista.",
+        "category": "vitamins",
+        "img": "vitamina_c.png",
+        "elements": [
+            {"name": "Ácido Ascórbico", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.261",
+        "cpe": "0724563635"
+    },
+    {
+        "name": "Vitamina D3",
+        "price": 12,
+        "short_description": "Apoya la salud ósea y el sistema inmunológico.",
+        "description": "Ayuda a tener huesos, músculos y nervios saludables y apoya el sistema inmunitario. Extrae el calcio de los alimentos y mejora el funcionamiento de los músculos.",
+        "category": "vitamins",
+        "img": "vitamina_d3.png",
+        "elements": [
+            {"name": "Vitamina D3", "qty": "125mcg"}
+        ],
+        "approval_number": "A-165.182",
+        "cpe": "1024572013"
+    },
+    {
+        "name": "Vitamina E",
+        "price": 12,
+        "short_description": "Mantén tu sistema inmunitario fuerte.",
+        "description": "Antioxidante. Ayuda a combatir infecciones por gérmenes y virus, previene los coágulos de sangre en los vasos sanguíneos, retrasa el envejecimiento celular y ayuda a cicatrizar.",
+        "category": "vitamins",
+        "img": "vitamina_e.png",
+        "elements": [
+            {"name": "Vitamina E", "qty": "531mcg (400IU)"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Centrunex Silver",
+        "price": 12,
+        "short_description": "Multivitamínico para adultos mayores de 50 años.",
+        "description": "Multivitamínico completo desarrollado para satisfacer las necesidades nutricionales de las personas mayores de 50 años en adelante.",
+        "category": "vitamins",
+        "img": "centrunex_silver.png",
+        "elements": [
+            {"name": "Vitamina A", "qty": "114mg"},
+            {"name": "Vitamina B1", "qty": "65mg"},
+            {"name": "Vitamina B2", "qty": "59mg"},
+            {"name": "Vitamina B6", "qty": "46mg"},
+            {"name": "Vitamina B12", "qty": "38mg"},
+            {"name": "Vitamina D3", "qty": "36mg"},
+            {"name": "Vitamina E", "qty": "32mg"},
+            {"name": "Vitamina K1", "qty": "24mg"},
+            {"name": "Beta Caroteno", "qty": "19mg"},
+            {"name": "Biotina", "qty": "16mg"},
+            {"name": "Ácido Pantoténico", "qty": "12mg"},
+            {"name": "Ácido Fólico", "qty": "8mg"},
+            {"name": "Luteína", "qty": "5mg"},
+            {"name": "Licopeno", "qty": "4mg"},
+            {"name": "Niacinamida", "qty": "2mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Vibazina",
+        "price": 12,
+        "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
+        "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
+        "category": "vitamins",
+        "img": "vibazina.png",
+        "elements": [
+            {"name": "Complejo B", "qty": "120mg"},
+            {"name": "Vitamina C", "qty": "110mg"},
+            {"name": "Vitamina D", "qty": "100mg"},
+            {"name": "Vitamina E", "qty": "70mg"},
+            {"name": "Hierro", "qty": "40mg"},
+            {"name": "Levadura de Cerveza", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },      
+    {
+        "name": "Vitamina D3 + K2",
+        "price": 12,
+        "short_description": "Ayuda a tu salud ósea, cardiovascular, inmunológica, mental y cutánea.",
+        "description": "Mejora la salud ósea, la salud cardiovascular y el sistema inmunitario. Ayuda a absorber mejor el calcio y previene la calcificación de las arterias.",
+        "category": "vitamins",
+        "img": "vitamina_d3_k2.png",
+        "elements": [
+            {"name": "Vitamina D3", "qty": "25mcg"},
+            {"name": "Vitamina K2", "qty": "100mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },  
+    {
+        "name": "Centrunex",
+        "price": 12,
+        "short_description": "Provee las vitaminas y minerales necesarios para el día a día.",
+        "description": "Multivitamínico que te ofrece energía, salud a los huesos, fortalece el sistema inmunológico, salud al corazón y ayuda al crecimiento de las uñas, piel y cabello.",
+        "category": "vitamins",
+        "img": "centrunex.png",
+        "elements": [
+            {"name": "Vitaminas Complejo B", "qty": "240mg"},
+            {"name": "Ginseng Koreano", "qty": "120mg"},
+            {"name": "Ginseng Biloba", "qty": "120mg"}
+        ],
+        "approval_number": "A-165.179",
+        "cpe": "0724563636"
+    },   
+
+
+
+    {
+        "name": "Centella Asiática",
+        "price": 12,
+        "short_description": "Favorece la cicatrización y estimula la producción de colágeno.",
+        "description": "Es un cicatrizante, protege la piel de los radicales libres, mejora la hidratación de la piel, antiarrugas, reduce el estrés y previene las arrugas.",
+        "category": "suplements",
+        "img": "centella_asiatica.png",
+        "elements": [
+            {"name": "Centella Asiática", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Vinagre de Manzana",
+        "price": 12,
+        "short_description": "Acelera el metabolismo. Ayuda a reducir la grasa abdominal.",
+        "description": "Mantiene la glucosa bajo control, ayuda a bajar de peso, bueno para el corazón, retrasa el envejecimiento y elimina los cálculos renales.",
+        "category": "suplements",
+        "img": "vinagre_manzana.png",
+        "elements": [
+            {"name": "Vinagre de Manzana", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.230",
+        "cpe": "0724563634"
+    },
+    {
+        "name": "Graviola",
+        "price": 12,
+        "short_description": "Ayuda al tratamiento de miomas y quistes.",
+        "description": "Coadyuvante en la terapia antitumoral. Controla los tumores.",
+        "category": "suplements",
+        "img": "graviola.png",
+        "elements": [
+            {"name": "Graviola", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Mapurite",
+        "price": 12,
+        "short_description": "Posee propiedades antiinflamatorias, cicatrizantes, antitumoral.",
+        "description": "Posee propiedades antiinflamatorias, cicatrizante, antitumoral. Es extraordinaria en el tratamiento de quistes, miomas y fibromas y varios tipos de cáncer.",
+        "category": "suplements",
+        "img": "mapurite.png",
+        "elements": [
+            {"name": "Mapurite (petiveria alliacea)", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Castaño de Indias",
+        "price": 12,
+        "short_description": "Mejora la circulación sanguínea.",
+        "description": "Mejora la circulación venosa, evita la caída de cabello, celulitis y tiene propiedades antiinflamatorias.",
+        "category": "suplements",
+        "img": "castano_indias.png",
+        "elements": [
+            {"name": "Castaño de Indias", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ñame Salvaje",
+        "price": 12,
+        "short_description": "Es usado para mitigar los efectos de la menopausia.",
+        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
+        "category": "suplements",
+        "img": "name_salvaje.png",
+        "elements": [
+            {"name": "Castaño de Indias", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "Levadura de Cerveza",
+        "price": 12,
+        "short_description": "Ayuda a la prevención de la anemia.",
+        "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
+        "category": "suplements",
+        "img": "levadura_cerveza.png",
+        "elements": [
+            {"name": "Levadura de Cerveza", "qty": "500mg"}
+        ],
+        "approval_number": "A-162.830",
+        "cpe": "1223550881"
+    }, 
+    {
+        "name": "Chanca Piedra",
+        "price": 12,
+        "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "suplements",
+        "img": "chanca_piedra.png",
+        "elements": [
+            {"name": "Chancapiedra (phyllanthus niruri)", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Calostro Bovino",
+        "price": 12,
+        "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
+        "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
+        "category": "suplements",
+        "img": "calostro_bovino.png",
+        "elements": [
+            {"name": "Calostro Bovino", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.211",
+        "cpe": "1024572004"
+    },
+    {
+        "name": "Resveratrol",
+        "price": 12,
+        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
+        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
+        "category": "suplements",
+        "img": "resveratrol.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Glucosamina Condroitina",
+        "price": 12,
+        "short_description": "Estimula la formación y reparación del cartílago articulatorio",
+        "description": "Ayuda a aliviar el dolor y combatir la inflamación. Aumenta el cartílago y el líquido alrededor de las articulaciones y ayuda a prevenir su degradación.",
+        "category": "suplements",
+        "img": "glucosamina_condroitina.png",
+        "elements": [
+            {"name": "Sulfato de Glucosamina", "qty": "310mg"},
+            {"name": "Sulfato de Condroitina", "qty": "170mg"}
+        ],
+        "approval_number": "A-166.181",
+        "cpe": "000000000"
+    },
+    {
+        "name": "5-HTP",
+        "price": 12,
+        "short_description": "Mejora el estado de ánimo. Reduce el estrés y los ataques de pánico.",
+        "description": "Controla los problemas mentales como el estrés, la depresión y la ansiedad.",
+        "category": "suplements",
+        "img": "5_htp.png",
+        "elements": [
+            {"name": "5-hidroxitriptófano", "qty": "200mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Valeriana",
+        "price": 12,
+        "short_description": "Actúa como sedante y relajante nervioso.",
+        "description": "Combate el dolor de cabeza, cólicos intestinales, dolores reumáticos, dismenorreas y elimina la intranquilidad.",
+        "category": "suplements",
+        "img": "valeriana.png",
+        "elements": [
+            {"name": "Valeriana", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cúrcuma",
+        "price": 12,
+        "short_description": "Eleva el sistema inmunológico.",
+        "description": "Previene la arterioesclerosis, alivia los problemas digestivos. Aporta beneficios al hígado, reduce el dolor de la artritis y ayuda a adelgazar.",
+        "category": "suplements",
+        "img": "curcuma.png",
+        "elements": [
+            {"name": "Cúrcuma", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Tumba Barriga",
+        "price": 12,
+        "short_description": "Reduce los niveles de colesterol, triglicéridos y retención de líquidos.",
+        "description": "Ayuda a adelgazar y tumbar la panza con una dieta apropiada.",
+        "category": "suplements",
+        "img": "tumba_barriga.png",
+        "elements": [
+            {"name": "Grapefruit", "qty": "200mg"},
+            {"name": "Piña", "qty": "110mg"},
+            {"name": "Té verde", "qty": "90mg"},
+            {"name": "Alcachofa", "qty": "50mg"},
+            {"name": "Flor de Jamaica", "qty": "30mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ginseng Koreano",
+        "price": 12,
+        "short_description": "Fortalece el sistema inmunológico. Tiene propiedades antioxidantes.",
+        "description": "Aumenta la actividad mental y el deseo sexual.",
+        "category": "suplements",
+        "img": "ginseng_koreano.png",
+        "elements": [
+            {"name": "Ginseng Koreano", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "1024572005"
+    },
+    {
+        "name": "Aguaje",
+        "price": 12,
+        "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
+        "description": "Aumenta el busto y los glúteos, mantiene la piel joven y tiene propiedades analgésicas, antibióticas y antiinflamatorias.",
+        "category": "suplements",
+        "img": "aguaje.png",
+        "elements": [
+            {"name": "Aguaje", "qty": "120mg"},
+            {"name": "Colágeno Hidrolizado", "qty": "120mg"},
+            {"name": "L-Carnitina", "qty": "110mg"},
+            {"name": "Garcinia Cambogia", "qty": "80mg"},
+            {"name": "Harina", "qty": "50mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "1024572005"
+    },
+    {
+        "name": "Ginkgo Biloba",
+        "price": 12,
+        "short_description": "Ayuda a aumentar la vitalidad mental.",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "suplements",
+        "img": "ginkgo_biloba.png",
+        "elements": [
+            {"name": "Castaño de India", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Fenogreco",
+        "price": 12,
+        "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "suplements",
+        "img": "fenogreco.png",
+        "elements": [
+            {"name": "Fenogreco", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Omega 3",
+        "price": 12,
+        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
+        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
+        "category": "suplements",
+        "img": "omega3.png",
+        "elements": [
+            {"name": "Aceite de Pescado", "qty": "753mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Boldo",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora la salud del hígado y la vesícula, baja el colesterol, ayuda al sistema digestivo siendo un laxante y cura los dolores estomacales.",
+        "category": "suplements",
+        "img": "boldo.png",
+        "elements": [
+            {"name": "Boldo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ajo",
+        "price": 12,
+        "short_description": "",
+        "description": "Previene el aumento de grasas en la sangre. Mejora la circulación, baja la fiebre, regula la tensión arterial alta, el colesterol y los niveles altos de glucosa en sangre.",
+        "category": "suplements",
+        "img": "ajo.png",
+        "elements": [
+            {"name": "Polvos Bulbos", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Ajo Perejil",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a regular la hipertensión, disminuye el colesterol y los triglicéridos y ayuda en las afecciones respiratorias, intestinales y de control de glicemia.",
+        "category": "suplements",
+        "img": "ajo_perejil.png",
+        "elements": [
+            {"name": "Polvos Bulbos", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Acidophilus",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda en la digestión, mejora la absorción de nutrientes y combate organismos dañinos. Previene la diarrea y alivia los síntomas del síndrome del intestino irritable.",
+        "category": "suplements",
+        "img": "acidophilus.png",
+        "elements": [
+            {"name": "Acidophilus", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Cola de Caballo",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a reducir la retención de líquidos, ayuda a tratar los riñones si tienen algún trastorno y mejora la salud de la vejiga.",
+        "category": "suplements",
+        "img": "cola_caballo.png",
+        "elements": [
+            {"name": "Cola de Caballo", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Quinchoncho",
+        "price": 12,
+        "short_description": "",
+        "description": "Disminuye los efectos causados por la rinitis y sinusitis. Ideal para los tratamientos que combaten la congestión nasal y afecciones respiratorias.",
+        "category": "suplements",
+        "img": "quinchoncho.png",
+        "elements": [
+            {"name": "Quinchoncho", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Quiste Ginol",
+        "price": 12,
+        "short_description": "",
+        "description": "Combate contra los quistes, miomas, fibromas y fortalece las defensas del organismo.",
+        "category": "suplements",
+        "img": "quiste_ginol.png",
+        "elements": [
+            {"name": "Caléndula", "qty": "110mg"},
+            {"name": "Centella Asiática", "qty": "100mg"},
+            {"name": "Graviola", "qty": "80mg"},
+            {"name": "Cola de Caballo", "qty": "60mg"},
+            {"name": "Té verde", "qty": "60mg"},
+            {"name": "Muérdago", "qty": "30mg"},
+            {"name": "Cúrcuma", "qty": "30mg"},
+            {"name": "Uña de gato", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Circulación",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a desinflamar las hemorroides, combate la insuficiencia venosa, reduce la esclerosis, erupciones y sarpullidos.",
+        "category": "suplements",
+        "img": "circulacion.png",
+        "elements": [
+            {"name": "Castaño de India", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Prosta Sana",
+        "price": 12,
+        "short_description": "Previene el cáncer de próstata.",
+        "description": "Tiene acciones terapéuticas, antibacterial, cicatrizante y antiinflamatoria.",
+        "category": "prostate",
+        "img": "prosta_sana.png",
+        "elements": [
+            {"name": "Hojas de Achiote (Bixa Orellana)", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Saw Palmetto",
+        "price": 12,
+        "short_description": "Desinflama las vías urinarias y estimula un mejor flujo urinario.",
+        "description": "Ayuda a tratar los síntomas de la próstata agrandada. Alivia el tracto urinario.",
+        "category": "prostate",
+        "img": "saw_palmetto.png",
+        "elements": [
+            {"name": "Saw Palmetto", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Macho Viril",
+        "price": 12,
+        "short_description": "Mejora la líbido y función eréctil en hombres con impotencia.",
+        "description": "Incrementa la energía sexual y la función eréctil.",
+        "category": "prostate",
+        "img": "macho_viril.png",
+        "elements": [
+            {"name": "Ginseng Koreano", "qty": "290mg"},
+            {"name": "Ginseng Rojo", "qty": "95mg"},
+            {"name": "Maca", "qty": "58mg"},
+            {"name": "Ginkgo Biloba", "qty": "29mcg"},
+            {"name": "Jengibre", "qty": "8mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "L-Arginina",
+        "price": 12,
+        "short_description": "",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
+        "category": "amino acids",
+        "img": "l_arginina.png",
+        "elements": [
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
+        ],
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
+    },
+
+
+
+    {
+        "name": "Magnesio + Melatonina",
+        "price": 12,
+        "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
+        "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
+        "category": "magnesiums",
+        "img": "magnesio_melatonina.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "470mg"},
+            {"name": "Melatonina", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Citrato de Magnesio",
+        "price": 12,
+        "short_description": "Regula la función de los músculos y del sistema nervioso.",
+        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
+        "category": "magnesiums",
+        "img": "citrato_magnesio.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "400mg"}
+        ],
+        "approval_number": "A-162.829",
+        "cpe": "1223550879"
+    },
+    {
+        "name": "Glicinato de Magnesio",
+        "price": 12,
+        "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
+        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
+        "category": "magnesiums",
+        "img": "glicinato_magnesio.png",
+        "elements": [
+            {"name": "Bisglicinato de Magnesio", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Magnesio + Potasio",
+        "price": 12,
+        "short_description": "",
+        "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
+        "category": "magnesiums",
+        "img": "magnesio_potasio.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "280mg"},
+            {"name": "Citrato de Magnesio", "qty": "120mg"},
+            {"name": "Ácido Ascórbico", "qty": "80mg"}
+        ],
+        "approval_number": "A-165.226",
+        "cpe": "0724563659"
+    },
+
+
+
+
+
+    {
+        "name": "Proteína de Suero 400gr (Chocolate)",
+        "price": 23,
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
+        "category": "proteins",
+        "img": "proteina_suero_chocolate_400gr.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Proteína de Suero 400gr (Vainilla)",
+        "price": 23,
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_suero_vainilla_400gr.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Proteína de Suero 907gr (Chocolate)",
+        "price": 35,
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos y protege los músculos y las articulaciones. Sacia el apetito.",
+        "category": "proteins",
+        "img": "proteina_suero_chocolate.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.183",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Proteína de Suero 907gr (Vainilla)",
+        "price": 35,
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_suero_vainilla.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.231",
+        "cpe": "0724563818"
+    },
+    {
+        "name": "Proteína de Huevo 907gr (Vainilla)",
+        "price": 35,
+        "short_description": "",
+        "description": "Recupera la masa múscular rápido, proporciona apoyo al sistema inmunológico y favorece la construcción del músculo.",
+        "category": "proteins",
+        "img": "proteina_huevo_vainilla.png",
+        "elements": [
+            {"name": "Proteina", "qty": "23,47gr/30gr"}
+        ],
+        "approval_number": "A-165.571",
+        "cpe": "0724563820"
+    },
+    {
+        "name": "Creatina",
+        "price": 30,
+        "short_description": "",
+        "description": "Aumenta la masa muscular, recupera la energía en los entrenamientos, evita la fatiga y la producción del ácido láctico.",
+        "category": "proteins",
+        "img": "creatina.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "29,3gr/90gr"}
+        ],
+        "approval_number": "A-165.570",
+        "cpe": "0724563657"
+    },
+    {
+        "name": "Creatina Monohidratada",
+        "price": 12,
+        "short_description": "",
+        "description": "Mantiene las energías, fortalece los músculos y huesos durante el entrenamiento. Aumenta la masa muscular y mejora la capacidad de contraer los músculos.",
+        "category": "proteins",
+        "img": "creatina_monohidratada.png",
+        "elements": [
+            {"name": "Creatina Monohidratada", "qty": "2,5gr"}
+        ],
+        "approval_number": "A-165.181",
+        "cpe": "0724563632"
+    },
+    {
+        "name": "Cólageno Hidrolizado",
+        "price": 23,
+        "short_description": "",
+        "description": "Ayuda a bajar de peso, mejora la salud de las uñas, la piel y el cabello. Protege los huesos, músculos y articulaciones. Fortalece los tendones y ligamentos.",
+        "category": "proteins",
+        "img": "colageno_hidrolizado.png",
+        "elements": [
+            {"name": "Cólageno", "qty": "15gr"},
+            {"name": "Biotina", "qty": "30mcg"},
+            {"name": "Vitamina E", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Miel de Abejas 500gr",
+        "price": 9,
+        "short_description": "",
+        "description": "",
+        "category": "honey",
+        "img": "miel_500gr.png",
+        "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Miel de Abejas 1kg",
+        "price": 12,
+        "short_description": "",
+        "description": "",
+        "category": "honey",
+        "img": "miel.png",
+        "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }
+]
