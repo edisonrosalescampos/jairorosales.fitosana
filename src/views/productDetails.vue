@@ -2,7 +2,7 @@
   <div class="container my-4 product-page">
     <div class="mb-4">
       <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
-        <button class="btn btn-primary custom-btn btn-back">
+        <button class="btn btn-primary btn-sm custom-btn btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
       </RouterLink>      
@@ -29,10 +29,10 @@
         <br/>
 
         <div>
-          <a class="btn btn-primary custom-btn btn-buy" href="https://wa.me/584161974036" target="_blank">
+          <a class="btn btn-primary custom-btn btn-buy me-2" href="https://wa.me/584161974036" target="_blank">
             <i class="fas fa-shopping-cart me-1"></i> Comprar
           </a>
-          <a class="btn btn-primary custom-btn btn-buy ms-2" href="https://wa.me/584161974036" target="_blank">
+          <a class="btn btn-primary custom-btn btn-buy" href="https://wa.me/584161974036" target="_blank">
             <i class="fab fa-whatsapp me-1"></i> Chatear por whatsApp
           </a>
         </div>
@@ -74,7 +74,7 @@
 
     <div class="mt-4 d-md-none">
       <RouterLink :to="{ path: '/products', hash: '#' + product.category }">
-        <button class="btn btn-primary custom-btn btn-back">
+        <button class="btn btn-primary btn-sm custom-btn btn-back">
           <i class="fas fa-arrow-circle-left me-1"></i> Volver
         </button>
       </RouterLink>      
