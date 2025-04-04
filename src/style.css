@@ -37,26 +37,47 @@ body {
   position: relative;
   background-color: var(--green);
 }
+.header .top-wrapper {
+  background-color: var(--green-shade-300);
+  color: var(--brown);
+}
 
+
+/* ***** TOP ***** */
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+}
+
+
+/* ***** SHIPMENT ***** */
+.shipment {  
+  position: relative
+}
+.shipment-description {
+  font-size: .85rem;
+  font-weight: 600;
+  letter-spacing: 1pt;
+  margin-bottom: 0;
+}
 
 /* ***** SOCIAL NETWORKS ***** */
 .social {
-  position: absolute;
-  display: none;
-  justify-content: flex-end;
-  width: 100%;
-	padding: .75rem 1.5rem 0;  
+  position: relative;
 }
 .social ul {
   display: flex;
-  gap: 1.25rem;
+  gap: .75rem;
   margin-bottom: 0;
 }
 .social ul li {
   list-style: none;
 }
 .social ul li a {
-  color: var(--green-shade-100)
+  color: var(--brown)
 }
 
 
@@ -404,9 +425,9 @@ body {
 
 /* ***** RESPONSIVE ***** */
 @media (min-width: 576px) { 
-  .social {
+  /*.social {
     display: flex;
-  }
+  }*/
   .company-logo img {
     height: 70px;
   }
