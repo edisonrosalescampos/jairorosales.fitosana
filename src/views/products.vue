@@ -88,6 +88,7 @@
 </template>
 
 <script>
+import axios from 'axios';
 import productsJson from '../products.json';
 import SearchBox from '../components/layout/SearchBox.vue';
 import ProductGroup from '../components/products/ProductGroup.vue';
@@ -150,6 +151,17 @@ export default {
   },
   created() {
     this.$store.state.products = productsJson;
+
+    const api_url = "https://www.bcv.org.ve";
+    console.log(
+      axios({
+        url: api_url,
+        method: "GET",
+        headers: {
+          "Access-Control-Allow-Origin": "*"
+        }
+      })
+    );
   },
   watch: {
     "$store.state.search": {
