@@ -152,7 +152,7 @@ export default {
   created() {
     this.$store.state.products = productsJson;
 
-    const api_url = "https://www.bcv.org.ve";
+    /*const api_url = "https://www.bcv.org.ve";
     console.log(
       axios({
         url: api_url,
@@ -161,7 +161,7 @@ export default {
           "Access-Control-Allow-Origin": "*"
         }
       })
-    );
+    );*/
   },
   watch: {
     "$store.state.search": {
