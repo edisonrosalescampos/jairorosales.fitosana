@@ -43,6 +43,19 @@
 
 
     {
+        "name": "Colágeno",
+        "price": 12,
+        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
+        "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
+        "category": "vitamins",
+        "img": "colageno.png",
+        "elements": [
+            {"name": "Colágeno Hidrolizado", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.157",
+        "cpe": "1024572008"
+    },
+    {
         "name": "Complejo B",
         "price": 12,
         "short_description": "Fortalece el sistema inmunológico y promueve la salud general.",
@@ -75,19 +88,6 @@
         ],
         "approval_number": "A-165.229",
         "cpe": "1024572006"
-    },
-    {
-        "name": "Colágeno",
-        "price": 12,
-        "short_description": "Apoya la salud de tus articulaciones, piel y cabello.",
-        "description": "Fortalece las uñas y el cabello mejorando su aspecto. Previene y retarda la aparición de arrugas, líneas de expresión y celulitis.",
-        "category": "vitamins",
-        "img": "colageno.png",
-        "elements": [
-            {"name": "Colágeno Hidrolizado", "qty": "480mg"}
-        ],
-        "approval_number": "A-165.157",
-        "cpe": "1024572008"
     },
     {
         "name": "Vitamina C",
@@ -154,24 +154,6 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Vibazina",
-        "price": 12,
-        "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
-        "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
-        "category": "vitamins",
-        "img": "vibazina.png",
-        "elements": [
-            {"name": "Complejo B", "qty": "120mg"},
-            {"name": "Vitamina C", "qty": "110mg"},
-            {"name": "Vitamina D", "qty": "100mg"},
-            {"name": "Vitamina E", "qty": "70mg"},
-            {"name": "Hierro", "qty": "40mg"},
-            {"name": "Levadura de Cerveza", "qty": "40mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     },      
     {
         "name": "Vitamina D3 + K2",
@@ -205,6 +187,7 @@
 
 
 
+    
     {
         "name": "Centella Asiática",
         "price": 12,
@@ -325,19 +308,6 @@
         ],
         "approval_number": "A-165.211",
         "cpe": "1024572004"
-    },
-    {
-        "name": "Resveratrol",
-        "price": 12,
-        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
-        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
-        "category": "suplements",
-        "img": "resveratrol.png",
-        "elements": [
-            {"name": "Resveratrol", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
     },
     {
         "name": "Glucosamina Condroitina",
@@ -470,19 +440,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Omega 3",
-        "price": 12,
-        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
-        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
-        "category": "suplements",
-        "img": "omega3.png",
-        "elements": [
-            {"name": "Aceite de Pescado", "qty": "753mcg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
         "name": "Boldo",
         "price": 12,
         "short_description": "",
@@ -610,32 +567,7 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
-    {
-        "name": "NAD",
-        "price": 12,
-        "short_description": "",
-        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
-        "category": "suplements",
-        "img": "nad.png",
-        "elements": [
-            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
-        ],
-        "approval_number": "A-165.212",
-        "cpe": "0724563660"
-    },
-    {
-        "name": "Ashwagandha",
-        "price": 12,
-        "short_description": "",
-        "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
-        "category": "suplements",
-        "img": "ashwagandha.png",
-        "elements": [
-            {"name": "Ashwagandha", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
+    
 
 
 
@@ -714,19 +646,6 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Citrato de Magnesio",
-        "price": 12,
-        "short_description": "Regula la función de los músculos y del sistema nervioso.",
-        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
-        "category": "magnesiums",
-        "img": "citrato_magnesio.png",
-        "elements": [
-            {"name": "Citrato de Magnesio", "qty": "400mg"}
-        ],
-        "approval_number": "A-162.829",
-        "cpe": "1223550879"
     },
     {
         "name": "Glicinato de Magnesio",
@@ -889,6 +808,92 @@
         "category": "honey",
         "img": "miel.png",
         "elements": [],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Citrato de Magnesio",
+        "price": 12,
+        "short_description": "Regula la función de los músculos y del sistema nervioso.",
+        "description": "Ayuda a construir huesos y regular la digestión, el sueño y la presión arterial. Apoya la función muscular y nerviosa, el ritmo cardíaco constante y un sistema inmunológico saludable.",
+        "category": "featured",
+        "img": "citrato_magnesio.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "400mg"}
+        ],
+        "approval_number": "A-162.829",
+        "cpe": "1223550879"
+    },
+    {
+        "name": "Resveratrol",
+        "price": 12,
+        "short_description": "Combate el envejecimiento. Ayuda a la artritis y artrosis.",
+        "description": "Antioxidante útil para proteger el corazón, bajar de peso, reduce el colesterol y previene los coágulos sanguíneos.",
+        "category": "featured",
+        "img": "resveratrol.png",
+        "elements": [
+            {"name": "Resveratrol", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Vibazina",
+        "price": 12,
+        "short_description": "Ayuda a aumentar el peso, masa muscular y la contextura.",
+        "description": "Ayuda a ganar masa muscular, subir de peso o contextura. Ideal para personas con bajo peso o con problemas de nutrición.",
+        "category": "featured",
+        "img": "vibazina.png",
+        "elements": [
+            {"name": "Complejo B", "qty": "120mg"},
+            {"name": "Vitamina C", "qty": "110mg"},
+            {"name": "Vitamina D", "qty": "100mg"},
+            {"name": "Vitamina E", "qty": "70mg"},
+            {"name": "Hierro", "qty": "40mg"},
+            {"name": "Levadura de Cerveza", "qty": "40mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Omega 3",
+        "price": 12,
+        "short_description": "Contribuye a reducir el riesgo de enfermedades del corazón.",
+        "description": "Baja los niveles de triglicéridos, cuida la salud del corazón y disminuye la acumulación de la placa.",
+        "category": "featured",
+        "img": "omega3.png",
+        "elements": [
+            {"name": "Aceite de Pescado", "qty": "753mcg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "NAD",
+        "price": 12,
+        "short_description": "",
+        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "category": "featured",
+        "img": "nad.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563660"
+    },
+    {
+        "name": "Ashwagandha",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
+        "category": "featured",
+        "img": "ashwagandha.png",
+        "elements": [
+            {"name": "Ashwagandha", "qty": "480mg"}
+        ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
     }

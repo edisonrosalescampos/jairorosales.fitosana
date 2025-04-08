@@ -25,6 +25,13 @@
       </template>
     </template>
     <template v-else>
+      <!--DESTACADOS-->
+      <ProductGroup 
+        title="Productos Destacados"       
+        :products="featured" 
+        category="featured" 
+      />
+
       <!--VITAMINAS-->
       <ProductGroup 
         title="Vitaminas"       
@@ -103,6 +110,11 @@ export default {
     products: productsJson
   }),
   computed: {
+    featured() {
+      return this.sortAscByName(
+        this.$store.state.products.filter(item => item.category == "featured")
+      );
+    },
     vitamins() {
       return this.sortAscByName(
         this.$store.state.products.filter(item => item.category == "vitamins")

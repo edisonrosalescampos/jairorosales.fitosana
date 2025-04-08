@@ -8,23 +8,10 @@ import ProductDetailsView from './views/productDetails.vue'
 const router = createRouter({
     history: createMemoryHistory(),
     routes: [
-        { 
-            name: "Home", 
-            path: "/", 
-            component: ProductsView },
-        { 
-            name: "About", 
-            path: "/about", 
-            component: AboutView },
-        { 
-            name: "Products", 
-            path: "/products", 
-            component: ProductsView },
-        { 
-            name: "ProductDetails", 
-            path: "/product/:slug", 
-            component: ProductDetailsView 
-        }
+        { name: "Home", path: "/", component: ProductsView },
+        { name: "About", path: "/about", component: AboutView },
+        { name: "Products", path: "/products", component: ProductsView },
+        { name: "ProductDetails", path: "/product/:slug", component: ProductDetailsView }
     ],
     scrollBehavior(to, from, savedPosition) {        
         if (to.hash) {
