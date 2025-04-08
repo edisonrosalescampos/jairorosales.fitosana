@@ -27,7 +27,7 @@
     <template v-else>
       <!--DESTACADOS-->
       <ProductGroup 
-        title="Productos Destacados"       
+        title="Destacados"       
         :products="featured" 
         category="featured" 
       />
