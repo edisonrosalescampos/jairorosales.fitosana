@@ -16,6 +16,10 @@
             >Catálogo</RouterLink>
           </li>
           <li class="nav-item">
+            <!--<RouterLink
+              to="/about"
+              :class="['nav-link', isRouteActive(['About'])]"
+            >¿Quiénes somos?</RouterLink>-->
             <a class="nav-link" href="#">¿Quiénes somos?</a>
           </li>
           <li class="nav-item">

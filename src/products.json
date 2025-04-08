@@ -597,6 +597,45 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    {
+        "name": "Maca",
+        "price": 12,
+        "short_description": "",
+        "description": "Es un antioxidante que mejora el deseo sexual, la fertilidad, evita la anemia y ayuda a la resistencia física.",
+        "category": "suplements",
+        "img": "maca.png",
+        "elements": [
+            {"name": "Cola de Maca", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "NAD",
+        "price": 12,
+        "short_description": "",
+        "description": "Repara el ADN, protege tus células y combate el envejecimiento. Combate el estrés oxidativo, reduce la inflamación al neutralizar radicales libres",
+        "category": "suplements",
+        "img": "nad.png",
+        "elements": [
+            {"name": "NAD (Nicotinamida Adenina)", "qty": "30mg"}
+        ],
+        "approval_number": "A-165.212",
+        "cpe": "0724563660"
+    },
+    {
+        "name": "Ashwagandha",
+        "price": 12,
+        "short_description": "",
+        "description": "Ayuda a reducir el estrés, mejorar la función cerebral, aumentar la energía y la resistencia física, así como mejorar el sueño.",
+        "category": "suplements",
+        "img": "ashwagandha.png",
+        "elements": [
+            {"name": "Ashwagandha", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
 
 
 
