@@ -39,13 +39,6 @@
         category="vitamins" 
       />
 
-      <!--SUPLEMENTOS-->
-      <ProductGroup 
-        title="Suplementos"      
-        :products="suplements" 
-        category="suplements" 
-      />
-
       <!--MINERALES-->
       <ProductGroup 
         title="Minerales"
@@ -54,11 +47,11 @@
       />
 
       <!--MAGNESIOS-->
-      <ProductGroup 
+      <!--<ProductGroup 
         title="Magnesios"      
         :products="magnesiums"
         category="magnesiums"  
-      />
+      />-->
 
       <!--PRÓSTATA-->
       <ProductGroup 
@@ -67,11 +60,18 @@
         category="prostate"
       />
 
-      <!--AMINOÁCIDOS-->
+      <!--FITOESTRÓGENOS-->
       <ProductGroup 
-        title="Aminoácidos"        
-        :products="aminoAcids" 
-        category="aminoAcids"
+        title="Fitoestrógenos"        
+        :products="estrogens" 
+        category="estrogens"
+      />
+
+      <!--SUPLEMENTOS-->
+      <ProductGroup 
+        title="Suplementos"      
+        :products="suplements" 
+        category="suplements" 
       />
 
       <!--PROTEINAS-->
@@ -148,6 +148,11 @@ export default {
     aminoAcids() {
       return this.sortAscByName(
         this.$store.state.products.filter(item => item.category == "amino acids")
+      );
+    },
+    estrogens() {
+      return this.sortAscByName(
+        this.$store.state.products.filter(item => item.category == "estrogens")
       );
     },
     honey() {

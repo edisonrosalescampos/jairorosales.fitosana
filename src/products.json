@@ -39,6 +39,48 @@
         "approval_number": "A-165.219",
         "cpe": "0624562263"
     },
+    {
+        "name": "Magnesio + Melatonina",
+        "price": 12,
+        "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
+        "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
+        "category": "minerals",
+        "img": "magnesio_melatonina.png",
+        "elements": [
+            {"name": "Citrato de Magnesio", "qty": "470mg"},
+            {"name": "Melatonina", "qty": "10mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Glicinato de Magnesio",
+        "price": 12,
+        "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
+        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
+        "category": "minerals",
+        "img": "glicinato_magnesio.png",
+        "elements": [
+            {"name": "Bisglicinato de Magnesio", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Magnesio + Potasio",
+        "price": 12,
+        "short_description": "",
+        "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
+        "category": "minerals",
+        "img": "magnesio_potasio.png",
+        "elements": [
+            {"name": "Citrato de Potasio", "qty": "280mg"},
+            {"name": "Citrato de Magnesio", "qty": "120mg"},
+            {"name": "Ácido Ascórbico", "qty": "80mg"}
+        ],
+        "approval_number": "A-165.226",
+        "cpe": "0724563659"
+    },
 
 
 
@@ -183,7 +225,33 @@
         ],
         "approval_number": "A-165.179",
         "cpe": "0724563636"
-    },   
+    }, 
+    {
+        "name": "Levadura de Cerveza",
+        "price": 12,
+        "short_description": "Ayuda a la prevención de la anemia.",
+        "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
+        "category": "vitamins",
+        "img": "levadura_cerveza.png",
+        "elements": [
+            {"name": "Levadura de Cerveza", "qty": "500mg"}
+        ],
+        "approval_number": "A-162.830",
+        "cpe": "1223550881"
+    },  
+    {
+        "name": "Calostro Bovino",
+        "price": 12,
+        "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
+        "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
+        "category": "vitamins",
+        "img": "calostro_bovino.png",
+        "elements": [
+            {"name": "Calostro Bovino", "qty": "480mg"}
+        ],
+        "approval_number": "A-165.211",
+        "cpe": "1024572004"
+    }, 
 
 
 
@@ -254,36 +322,6 @@
         "cpe": "000000000"
     },
     {
-        "name": "Ñame Salvaje",
-        "price": 12,
-        "short_description": "Es usado para mitigar los efectos de la menopausia.",
-        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
-        "category": "suplements",
-        "img": "name_salvaje.png",
-        "elements": [
-            {"name": "Castaño de Indias", "qty": "100mg"},
-            {"name": "Cola de Caballo", "qty": "100mg"},
-            {"name": "Escoba de Carnicero", "qty": "100mg"},
-            {"name": "Muérdago", "qty": "100mg"},
-            {"name": "Jengibre", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    }, 
-    {
-        "name": "Levadura de Cerveza",
-        "price": 12,
-        "short_description": "Ayuda a la prevención de la anemia.",
-        "description": "Ayuda al metabolismo, aporta proteínas de alto valor y es una fuente de minerales y vitaminas.",
-        "category": "suplements",
-        "img": "levadura_cerveza.png",
-        "elements": [
-            {"name": "Levadura de Cerveza", "qty": "500mg"}
-        ],
-        "approval_number": "A-162.830",
-        "cpe": "1223550881"
-    }, 
-    {
         "name": "Chanca Piedra",
         "price": 12,
         "short_description": "Aporta a la eliminación de cálculos renales y biliares.",
@@ -295,19 +333,6 @@
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
-    },
-    {
-        "name": "Calostro Bovino",
-        "price": 12,
-        "short_description": "Fortalece el sistema inmunológico y mejora la salud digestiva.",
-        "description": "Fortalece el sistema inmunológico, ofrece gran energía cuando se sufre de agotamiento y cansancio crónico y disminuye el proceso de envejecimiento.",
-        "category": "suplements",
-        "img": "calostro_bovino.png",
-        "elements": [
-            {"name": "Calostro Bovino", "qty": "480mg"}
-        ],
-        "approval_number": "A-165.211",
-        "cpe": "1024572004"
     },
     {
         "name": "Glucosamina Condroitina",
@@ -393,23 +418,6 @@
         "cpe": "1024572005"
     },
     {
-        "name": "Aguaje",
-        "price": 12,
-        "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
-        "description": "Aumenta el busto y los glúteos, mantiene la piel joven y tiene propiedades analgésicas, antibióticas y antiinflamatorias.",
-        "category": "suplements",
-        "img": "aguaje.png",
-        "elements": [
-            {"name": "Aguaje", "qty": "120mg"},
-            {"name": "Colágeno Hidrolizado", "qty": "120mg"},
-            {"name": "L-Carnitina", "qty": "110mg"},
-            {"name": "Garcinia Cambogia", "qty": "80mg"},
-            {"name": "Harina", "qty": "50mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "1024572005"
-    },
-    {
         "name": "Ginkgo Biloba",
         "price": 12,
         "short_description": "Ayuda a aumentar la vitalidad mental.",
@@ -422,19 +430,6 @@
             {"name": "Escoba de Carnicero", "qty": "100mg"},
             {"name": "Muérdago", "qty": "100mg"},
             {"name": "Jengibre", "qty": "80mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Fenogreco",
-        "price": 12,
-        "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
-        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
-        "category": "suplements",
-        "img": "fenogreco.png",
-        "elements": [
-            {"name": "Fenogreco", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"
@@ -555,17 +550,17 @@
         "cpe": "000000000"
     },
     {
-        "name": "Maca",
+        "name": "L-Arginina",
         "price": 12,
         "short_description": "",
-        "description": "Es un antioxidante que mejora el deseo sexual, la fertilidad, evita la anemia y ayuda a la resistencia física.",
+        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
         "category": "suplements",
-        "img": "maca.png",
+        "img": "l_arginina.png",
         "elements": [
-            {"name": "Cola de Maca", "qty": "480mg"}
+            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
         ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
+        "approval_number": "A-166.183",
+        "cpe": "1024572005"
     },
     
 
@@ -614,67 +609,11 @@
         "approval_number": "A-000.00",
         "cpe": "000000000"
     },
+    
 
 
 
-    {
-        "name": "L-Arginina",
-        "price": 12,
-        "short_description": "",
-        "description": "Mejora la salud cardiovascular y el rendimiento en el ejercicio. Fortalece el sistema inmunológico y favorece la cicatrización de heridas.",
-        "category": "amino acids",
-        "img": "l_arginina.png",
-        "elements": [
-            {"name": "L-Arginina (diaminometilidenoamino)", "qty": "480mg"}
-        ],
-        "approval_number": "A-166.183",
-        "cpe": "1024572005"
-    },
-
-
-
-    {
-        "name": "Magnesio + Melatonina",
-        "price": 12,
-        "short_description": "Ayuda a eliminar el insomnios y poder descansar mejor.",
-        "description": "Te ayuda a dormir más rápido y permanecer dormido durante más tiempo.",
-        "category": "magnesiums",
-        "img": "magnesio_melatonina.png",
-        "elements": [
-            {"name": "Citrato de Magnesio", "qty": "470mg"},
-            {"name": "Melatonina", "qty": "10mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Glicinato de Magnesio",
-        "price": 12,
-        "short_description": "Contribuye a mejorar la salud de los músculos y evitar la fatiga.",
-        "description": "Evita el estrés, ayuda a dormir, fortalece los huesos y los relaja. Ayuda al metabolismo y evita los calambres y la depresión.",
-        "category": "magnesiums",
-        "img": "glicinato_magnesio.png",
-        "elements": [
-            {"name": "Bisglicinato de Magnesio", "qty": "480mg"}
-        ],
-        "approval_number": "A-000.00",
-        "cpe": "000000000"
-    },
-    {
-        "name": "Magnesio + Potasio",
-        "price": 12,
-        "short_description": "",
-        "description": "Mantiene el estado de la presión arterial y relaja los músculos.",
-        "category": "magnesiums",
-        "img": "magnesio_potasio.png",
-        "elements": [
-            {"name": "Citrato de Potasio", "qty": "280mg"},
-            {"name": "Citrato de Magnesio", "qty": "120mg"},
-            {"name": "Ácido Ascórbico", "qty": "80mg"}
-        ],
-        "approval_number": "A-165.226",
-        "cpe": "0724563659"
-    },
+    
 
 
 
@@ -893,6 +832,69 @@
         "img": "ashwagandha.png",
         "elements": [
             {"name": "Ashwagandha", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+
+
+
+    {
+        "name": "Ñame Salvaje",
+        "price": 12,
+        "short_description": "Es usado para mitigar los efectos de la menopausia.",
+        "description": "Alivia la sequedad vaginal, es usado como tratamiento para la indigestión, tos, mareos calambres menstruales, dolores en los nervios y en las articulaciones.",
+        "category": "estrogens",
+        "img": "name_salvaje.png",
+        "elements": [
+            {"name": "Castaño de Indias", "qty": "100mg"},
+            {"name": "Cola de Caballo", "qty": "100mg"},
+            {"name": "Escoba de Carnicero", "qty": "100mg"},
+            {"name": "Muérdago", "qty": "100mg"},
+            {"name": "Jengibre", "qty": "80mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    }, 
+    {
+        "name": "Aguaje",
+        "price": 12,
+        "short_description": "Ayuda a equilibrar los niveles hormonales femeninos.",
+        "description": "Aumenta el busto y los glúteos, mantiene la piel joven y tiene propiedades analgésicas, antibióticas y antiinflamatorias.",
+        "category": "estrogens",
+        "img": "aguaje.png",
+        "elements": [
+            {"name": "Aguaje", "qty": "120mg"},
+            {"name": "Colágeno Hidrolizado", "qty": "120mg"},
+            {"name": "L-Carnitina", "qty": "110mg"},
+            {"name": "Garcinia Cambogia", "qty": "80mg"},
+            {"name": "Harina", "qty": "50mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "1024572005"
+    },
+    {
+        "name": "Fenogreco",
+        "price": 12,
+        "short_description": "Ayuda a regular los niveles de glucosa en sangre.",
+        "description": "Elimina los cálculos de los riñones, evita las infecciones urinarias y de la vesícula.",
+        "category": "estrogens",
+        "img": "fenogreco.png",
+        "elements": [
+            {"name": "Fenogreco", "qty": "480mg"}
+        ],
+        "approval_number": "A-000.00",
+        "cpe": "000000000"
+    },
+    {
+        "name": "Maca",
+        "price": 12,
+        "short_description": "",
+        "description": "Es un antioxidante que mejora el deseo sexual, la fertilidad, evita la anemia y ayuda a la resistencia física.",
+        "category": "estrogens",
+        "img": "maca.png",
+        "elements": [
+            {"name": "Cola de Maca", "qty": "480mg"}
         ],
         "approval_number": "A-000.00",
         "cpe": "000000000"

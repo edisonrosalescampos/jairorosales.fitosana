@@ -104,8 +104,7 @@ export default {
       return name.split(" ").join("-").toLowerCase();
     },
     getTranslatedCategory(category = "") {
-      return category == "featured" ? "productos destacados"
-        : category == "vitamins" ? "vitaminas" 
+      return category == "vitamins" ? "vitaminas" 
         : category == "suplements" ? "suplementos" 
         : category == "minerals" ? "minerales"
         : category == "magnesiums" ? "magnesios"
@@ -113,6 +112,8 @@ export default {
         : category == "amino acids" ? "aminoácidos"
         : category == "proteins" ? "proteínas"
         : category == "honey" ? "miel"
+        : category == "featured" ? "productos destacados"
+        : category == "estrogens" ? "fitoestrógenos"
         : "";
     }
   },  
