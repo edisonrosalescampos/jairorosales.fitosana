@@ -18,10 +18,10 @@
       <div class="company-logo">
         <img src="/images/cintillo_fitosana.png" alt="">
       </div>
-      <div class="company-info">
+      <!--<div class="company-info">
         <h4 class="company-name">JAIRO ROSALES</h4>
         <h6 class="distributor-name">DISTRIBUIDOR AUTORIZADO FITOSANA</h6>
-      </div>
+      </div>-->
     </div>
       
       <TopNavbar />

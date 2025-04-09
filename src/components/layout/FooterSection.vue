@@ -1,9 +1,14 @@
 <template>
   <div class="footer">
+    <div class="container">
     <div class="copyright">
-      <div class="copy">
-        &copy; Distribuidor Fitosana 2025 | Todos los derechos reservados.
+      <div class="author">
+        Jairo Rosales - Distribuidor Fitosana
       </div>
+      <div class="copy">
+        Todos los derechos reservados
+      </div>
+    </div>
     </div>
   </div>
 </template>
