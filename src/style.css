@@ -148,9 +148,9 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  font-size: .9rem;
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: .85rem;
   text-align: center;
 }
 .copyright .author {
@@ -158,7 +158,6 @@ body {
   font-weight: 500;
 }
 .copyright .copy {
-  font-size: .85rem;
   text-transform: uppercase;
 }
 
